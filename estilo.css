@@ -17,8 +17,9 @@ body{
     width: 100%;
     height: 100%;
     background: black url(img/p-fundo.jpg) no-repeat;
-    background-size: cover;
+    background-size: auto;
     background-position: center center;
+    background-attachment: fixed;
 
 }
 
