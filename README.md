@@ -1,7 +1,7 @@
 # TecladoVirtual
 
 ### Link: https://joaogomesdev32.github.io/TecladoVirtual/
-![img](./img/amostra.png)
+<img align="center"  height="350" width="700" src="img/amostra.png">
 
 ## ✨ Descrição
 
